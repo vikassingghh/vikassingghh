@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikassingghh.
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data science projects.
+- 👀 I’m interested in creating Websites.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on Startup projects.
 - 📫 How to reach me https://www.linkedin.com/in/vikas-singh-b7a66924b/
 
 <!---
