@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikas Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m worked on **IIT Roorkee**
+- 🔭 I’m worked at **IIT Roorkee Virtual Labs**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Exciting**
-
-- 🤝 I’m looking for help with **Open Source Project**
+- 👯 I’m looking to collaborate on **Exciting Projects**
 
 - 💬 Ask me about **Javascript, React.js**
 
